@@ -1,5 +1,5 @@
 # Proyecto-IS-Java
-Proyect for "Ingeniería del software" (software engineering), from de second year of Computer Science. 2018.
+Proyect for "Ingeniería del software" (software engineering), from the second year of Computer Science. 2018.
 
 Entirely done in Java.
 
